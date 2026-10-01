@@ -13,9 +13,5 @@ FEATURES
 - MIDI export (melody, chords, drums on separate MIDI channels)
 - WAV export with selectable 1 / 2 / 4 / 8 / 16 loops
 
-DEPLOY TO NETLIFY
-1. Unzip sonotype-studio.zip
-2. In Netlify choose Add new project > Deploy manually
-3. Drag the sonotype-studio folder into Netlify
 
 Open index.html locally in a modern browser to test it.
